@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Fiberoptic2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python for security
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Soc Tools
+- 📫 How to reach me Comment
+
 
 <!---
 Fiberoptic2022/Fiberoptic2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
